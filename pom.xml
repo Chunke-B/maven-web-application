@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/del-Release</url>
+	      <name>boa-release</name>
+	      <url>http://localhost:8081/repository/boa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/del-Snapshot/</url>
+	      <name>boa-snapshot</name>
+	      <url>http://localhost:8081/repository/boa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
